@@ -80,7 +80,7 @@ This project presents a smart, IoT-enabled Gate Pass Management System tailored 
 📞 Contact
 
 Made with ❤️ by anirbansantra  
-🔗 GitHub: https://github.com/gourab21  
+🔗 GitHub: https://github.com/anirbansantra  
 📧 Email: anirbansantraofficial@gmail.com
 
 📃 License
